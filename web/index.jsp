@@ -10,10 +10,10 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
     </head>
-    <body>
+    <body><center>   
         <h1>Registro de personas</h1>
         <a href="MainController?op=nuevo">Nuevo</a>
-        <table border="1">
+        <table border="2">
             <tr>
                 <th>Id</th>
                 <th>Nombres</th>
