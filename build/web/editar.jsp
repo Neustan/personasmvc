@@ -11,23 +11,23 @@
             <table>
                 <tr>
                     <td>Id</td>
-                    <td><input type="text" name="id"></td>
+                    <td><input type="number" name="id" size="6"></td>
                 </tr>
                 <tr>
-                    <td>Nombres</td>
+                    <td>Nombres :</td>
                     <td><input type="text" name="nombres"></td>
                 </tr>                
-                                <tr>
-                    <td>Apellidos</td>
+                <tr>
+                    <td>Apellidos :</td>
                     <td><input type="text" name="apellidos"></td>
                 </tr>
                                 <tr>
-                    <td>Edad</td>
-                    <td><input type="number" name="edad"></td>
+                    <td>Edad :</td>
+                    <td><input type="number" name="edad" size="4"></td>
                 </tr>
                 <tr>
                     <td></td>
-                    <td><input type="submit"></td>
+                    <td><input type="submit" value="Guardar"    ></td>
                 </tr>
             </table>
         </form>
